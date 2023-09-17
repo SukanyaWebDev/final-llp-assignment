@@ -35,7 +35,7 @@ const NewButton = () => (
               alt="new plus icon"
               className="plus-icon"
             />
-            New
+            new
           </button>
         </div>
       )
