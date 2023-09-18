@@ -116,7 +116,7 @@ class GreenLightRedLight extends Component {
             <div >
                 <nav className='navBar'>
                     
-                    <h1 >Welcome....<span className='welcomepage'>{userName}</span></h1>
+                    <h1 >Welcome....hi<span className='welcomepage'>{userName}</span></h1>
                     <h1>Your Score : <span className='welcomepage'>{result}</span></h1>
                     <h1>Time : <span className='welcomepage'>{timer}</span></h1>
                 </nav>
